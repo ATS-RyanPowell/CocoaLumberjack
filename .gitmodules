@@ -1,0 +1,3 @@
+[submodule "fwtools"]
+	path = fwtools
+	url = git@devserver.local:/opt/git/iOS/Tools/FrameworkTools.git
